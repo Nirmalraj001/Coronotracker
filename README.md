@@ -1,4 +1,4 @@
-# COVID-19 Tracker
+# Corono Tracker
 
 API used: https://covid19.mathdro.id/api
 
